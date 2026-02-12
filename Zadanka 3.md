@@ -56,4 +56,4 @@ system_log.log:
 [008] INFO: Shutdown sequence started.
 [009] DEBUG: Closing sockets.
 ```
-Larger system.log can be found on the repo here: 
+Larger log file can be found on the repo:  
