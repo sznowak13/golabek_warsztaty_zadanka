@@ -20,7 +20,7 @@ invalid_line
 ---
 
 
-**Exercise: Use tuples to represent fixed "records" and save them. **
+**Exercise: Use tuples to represent fixed "records" and save them.**
 Task:
 1. Create a list of tuples, where each tuple represents an item: (name, quantity, price). Example: ("Hammer", 10, 15.99).
 2. Open a new file inventory_report.txt for writing.
