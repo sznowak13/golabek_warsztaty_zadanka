@@ -56,4 +56,4 @@ system_log.log:
 [008] INFO: Shutdown sequence started.
 [009] DEBUG: Closing sockets.
 ```
-Larger log file can be found on the repo:  
+Larger log file can be found on the repo:  [larger_log.log](https://github.com/sznowak13/golabek_warsztaty_zadanka/blob/main/large_log.log)
