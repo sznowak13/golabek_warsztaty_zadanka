@@ -24,7 +24,7 @@ invalid_line
 Task:
 1. Create a list of tuples, where each tuple represents an item: (name, quantity, price). Example: ("Hammer", 10, 15.99).
 2. Open a new file inventory_report.txt for writing.
-3. Use a for loop to iterate through the tuples and write a formatted string (<name> x <quantity> for <price> PLN) for each item to the file.
+3. Use a for loop to iterate through the tuples and write a formatted string (`<name> x <quantity> for <price> PLN`) for each item to the file.
 
 ```python
 inventory_data = [
